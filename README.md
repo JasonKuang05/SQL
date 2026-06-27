@@ -1,7 +1,7 @@
 # Introduction
 📊 Let's explore the data analytics job landscape! This project examines 💰 the highest-paying positions, 🔥 the most sought-after technical skills, and 📈 where lucrative opportunities intersect with high market demand.
 
-🔍 SQL queries? Check them out here: [project_sql folder](/project_sql/)
+🔍 SQL queries? Check them out here: [Project_sql folder](/Project_sql/)
 
 # Background
 This project started from a need to make smarter career decisions in the data analytics field. I wanted to identify which roles pay the most and what skills drive those salaries, so others can navigate the job market more strategically.
